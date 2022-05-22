@@ -1,0 +1,24 @@
+F:\c# program\Hotel system\Hotel system\bin\Debug\netcoreapp3.1\Hotel system.exe
+F:\c# program\Hotel system\Hotel system\bin\Debug\netcoreapp3.1\Hotel system.deps.json
+F:\c# program\Hotel system\Hotel system\bin\Debug\netcoreapp3.1\Hotel system.runtimeconfig.json
+F:\c# program\Hotel system\Hotel system\bin\Debug\netcoreapp3.1\Hotel system.runtimeconfig.dev.json
+F:\c# program\Hotel system\Hotel system\bin\Debug\netcoreapp3.1\Hotel system.dll
+F:\c# program\Hotel system\Hotel system\bin\Debug\netcoreapp3.1\Hotel system.pdb
+F:\c# program\Hotel system\Hotel system\obj\Debug\netcoreapp3.1\Hotel system.csproj.AssemblyReference.cache
+F:\c# program\Hotel system\Hotel system\obj\Debug\netcoreapp3.1\Hotel system.csproj.GenerateResource.cache
+F:\c# program\Hotel system\Hotel system\obj\Debug\netcoreapp3.1\Hotel system.GeneratedMSBuildEditorConfig.editorconfig
+F:\c# program\Hotel system\Hotel system\obj\Debug\netcoreapp3.1\Hotel system.AssemblyInfoInputs.cache
+F:\c# program\Hotel system\Hotel system\obj\Debug\netcoreapp3.1\Hotel system.AssemblyInfo.cs
+F:\c# program\Hotel system\Hotel system\obj\Debug\netcoreapp3.1\Hotel system.csproj.CoreCompileInputs.cache
+F:\c# program\Hotel system\Hotel system\obj\Debug\netcoreapp3.1\Hotel system.dll
+F:\c# program\Hotel system\Hotel system\obj\Debug\netcoreapp3.1\Hotel system.pdb
+F:\c# program\Hotel system\Hotel system\obj\Debug\netcoreapp3.1\Hotel system.genruntimeconfig.cache
+F:\c# program\Hotel system\Hotel system\obj\Debug\netcoreapp3.1\Hotel_system.Welcomeform.resources
+F:\c# program\Hotel system\Hotel system\obj\Debug\netcoreapp3.1\Hotel_system.Properties.Resources.resources
+F:\c# program\Hotel system\Hotel system\obj\Debug\netcoreapp3.1\Hotel_system.LoginforRe.resources
+F:\c# program\Hotel system\Hotel system\obj\Debug\netcoreapp3.1\Hotel_system.recform.resources
+F:\c# program\Hotel system\Hotel system\bin\Debug\netcoreapp3.1\Hotel system.dll.config
+F:\c# program\Hotel system\Hotel system\obj\Debug\netcoreapp3.1\Hotel_system.CheckOut.resources
+F:\c# program\Hotel system\Hotel system\obj\Debug\netcoreapp3.1\SearchUpdateDelete.SearchForm.resources
+F:\c# program\Hotel system\Hotel system\obj\Debug\netcoreapp3.1\hhhhhhhhhhhhhhhhh.bookingFormForm.resources
+F:\c# program\Hotel system\Hotel system\obj\Debug\netcoreapp3.1\Hotel_system.loadingform.resources

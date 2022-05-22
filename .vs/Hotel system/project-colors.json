@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "980a3859-c35d-451a-b644-d6b21560e0ca": {
+      "ProjectGuid": "980a3859-c35d-451a-b644-d6b21560e0ca",
+      "DisplayName": "Hotel system",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
